@@ -1,0 +1,25 @@
+ .container .text{ 
+    
+    color: blueviolet;
+    background-color: blanchedalmond;
+    font-size: 25px;
+}
+
+div.chicken
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.picture
+{
+    width: auto;
+    height: 400px;
+}
+
+.recipe
+{
+    line-height: 2.7;
+    text-transform: capitalize;
+}
