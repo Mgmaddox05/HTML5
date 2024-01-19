@@ -8,7 +8,7 @@
 div.chicken
 {
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 500;
+    font-weight: 800;
     font-style: italic;
 }
 
@@ -17,9 +17,15 @@ div.chicken
     width: auto;
     height: 400px;
 }
-
 .recipe
 {
+    color:blue;
     line-height: 2.7;
     text-transform: capitalize;
+}
+
+recipe recipe-steps
+{
+    font-size: 32px;
+    color:aquamarine;
 }
